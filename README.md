@@ -40,13 +40,12 @@ visita personalizadas. Desarrolalda con HTML5, CSS3 (SASS) y JavaScript.
 <p align = "left">  
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width="60px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="40px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="60px" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
+  <code><img width="60px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
+  <code><img width="60px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="60px" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
   
 

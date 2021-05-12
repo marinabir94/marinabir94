@@ -14,9 +14,9 @@ const marinaballester = {
  };
 ```
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/anamartinezfernandez)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anamartinezfernandez)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anamartinezf6@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marinabir94)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-ballester)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marinabir94@gmail.com)
 
 ### Some of my projects:
 - [Las Chicas del Coding](https://github.com/anamartinezfernandez/My-first-collaborative-webpage): Página web de presentación y contacto. Diseño responsive. Maquetación con HTML5 y CSS3 (SASS). 
@@ -43,7 +43,7 @@ visita personalizadas. Desarrolalda con HTML5, CSS3 (SASS) y JavaScript.
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="40px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="60px" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></code>
+  <code><img width="60px" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="60px" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>

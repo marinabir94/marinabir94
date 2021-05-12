@@ -1,16 +1,16 @@
-### Hi there 👋
+## ¡Hi there!👋
 
-<!--
-**marinabir94/marinabir94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marina, a **junior frontend developer** 👩‍💻 with a telecommunications engineering background. After 4 years of robotic process automation experience 👾🤖 I decided to change my direction and start a frontend development career. 
+Here you can check my [virtual CV](https://marinabir94.github.io/)
 
-Here are some ideas to get you started:
+> Inspiration exists, but it has to find you working – Pablo Picasso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const marinaballester = {
+  pronouns: "she/her",
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "npm", "VSCode", "Sass", "Git"],
+  softSkills: [organisation, teamwork, resilience, decisive, empathy],
+ };
+```
+
